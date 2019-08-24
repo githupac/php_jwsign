@@ -6,6 +6,10 @@ This is a function wrapping through the Openssl to sign and validate the data, w
 
 [![Travis-ci](https://api.travis-ci.org/yakeing/php_jwsign.svg)](https://travis-ci.org/yakeing/php_jwsign)
 
+### codecov
+
+[![codecov](https://codecov.io/gh/yakeing/php_jwsign/branch/master/graph/badge.svg)](https://codecov.io/gh/yakeing/php_jwsign)
+
 ### Packagist
 
 [![Version](http://img.shields.io/packagist/v/yakeing/php_jwsign.svg)](https://github.com/yakeing/php_jwsign/releases)
