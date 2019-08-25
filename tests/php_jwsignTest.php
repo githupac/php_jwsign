@@ -40,5 +40,15 @@ class php_jwsignTest extends TestCase{
     $value = json_encode($arrayStr);
     $Verify = $jws->PubkeyVerify($value, $sign, $pub);
     $this->assertTrue($Verify);
+    return $jws;
+  }
+
+  /**
+  * @depends testVerify
+  */
+  public function testErr($jws){
+    $jws->KeyId = 1212212;
+    $Sign = $jws->SignMessage('12345');
+    $this->assertFalse($Sign);
   }
 }
