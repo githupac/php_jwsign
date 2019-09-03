@@ -40,6 +40,7 @@ class php_jwsignTest extends TestCase{
     $value = json_encode($arrayStr);
     $Verify = $jws->PubkeyVerify($value, $sign, $pub);
     $this->assertTrue($Verify);
+    $jws->__destruct();
   }
 
 }
