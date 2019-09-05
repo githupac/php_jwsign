@@ -20,7 +20,7 @@ This is a function wrapping through the Openssl to sign and validate the data, w
 [![Downloads](https://img.shields.io/github/downloads/yakeing/php_jwsign/total.svg)](https://github.com/yakeing/php_jwsign)
 [![Size](https://img.shields.io/github/size/yakeing/php_jwsign/src/jwsign.php.svg)](https://github.com/yakeing/php_jwsign/blob/master/src/php_jwsign/jwsign.php)
 [![tag](https://img.shields.io/github/tag/yakeing/php_jwsign.svg)](https://github.com/yakeing/php_jwsign/releases)
-[![Language](https://img.shields.io/github/license/yakeing/php_jwsign.svg)](https://github.com/yakeing/php_jwsign/blob/master/LICENSE)
+[![Language](https://oauth.applinzi.com/Badge/license/MPL-2.0/FE7D37.svg)](https://github.com/yakeing/php_jwsign/blob/master/LICENSE)
 [![Php](https://img.shields.io/github/languages/top/yakeing/php_jwsign.svg)](https://github.com/yakeing/php_jwsign)
 
 ### Installation
