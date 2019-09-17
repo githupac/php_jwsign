@@ -19,9 +19,9 @@ This is a function wrapping through the Openssl to sign and validate the data, w
 
 [![Downloads](https://img.shields.io/github/downloads/yakeing/php_jwsign/total.svg)](https://github.com/yakeing/php_jwsign)
 [![Size](https://img.shields.io/github/size/yakeing/php_jwsign/src/jwsign.php.svg)](https://github.com/yakeing/php_jwsign/blob/master/src/php_jwsign/jwsign.php)
-[![tag](https://img.shields.io/github/tag/yakeing/php_jwsign.svg)](https://github.com/yakeing/php_jwsign/releases)
-[![Language](https://oauth.applinzi.com/Label/license/MPL-2.0/FE7D37.svg)](https://github.com/yakeing/php_jwsign/blob/master/LICENSE)
-[![php](https://oauth.applinzi.com/Label/php/100.0%25/007EC6.svg)](https://github.com/yakeing/php_jwsign)
+[![tag](https://oauth.applinzi.com/Label/tag/v1.2.0/28a745.svg)](https://github.com/yakeing/php_jwsign/releases)
+[![license](https://oauth.applinzi.com/Label/license/MPL-2.0/FE7D37.svg)](https://github.com/yakeing/php_jwsign/blob/master/LICENSE)
+[![languages](https://oauth.applinzi.com/Label/languages/php/007EC6.svg)](https://github.com/yakeing/php_jwsign/search?l=php)
 
 ### Installation
 
