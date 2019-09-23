@@ -4,7 +4,7 @@ This is a function wrapping through the Openssl to sign and validate the data, w
 
 ### Travis CI
 
-[![Travis-ci](https://api.travis-ci.com/yakeing/php_jwsign.svg)](https://travis-ci.org/yakeing/php_jwsign)
+[![Travis-ci](https://api.travis-ci.com/yakeing/php_jwsign.svg)](https://travis-ci.com/yakeing/php_jwsign)
 
 ### codecov
 
@@ -15,13 +15,14 @@ This is a function wrapping through the Openssl to sign and validate the data, w
 [![Version](http://img.shields.io/packagist/v/yakeing/php_jwsign.svg)](https://github.com/yakeing/php_jwsign/releases)
 [![Downloads](http://img.shields.io/packagist/dt/yakeing/php_jwsign.svg)](https://packagist.org/packages/yakeing/php_jwsign)
 
-### Github
+### Dadge
 
-[![Downloads](https://img.shields.io/github/downloads/yakeing/php_jwsign/total.svg)](https://github.com/yakeing/php_jwsign)
-[![Size](https://img.shields.io/github/size/yakeing/php_jwsign/src/jwsign.php.svg)](https://github.com/yakeing/php_jwsign/blob/master/src/php_jwsign/jwsign.php)
-[![tag](https://oauth.applinzi.com/Label/tag/v1.2.0/28a745.svg)](https://github.com/yakeing/php_jwsign/releases)
-[![license](https://oauth.applinzi.com/Label/license/MPL-2.0/FE7D37.svg)](https://github.com/yakeing/php_jwsign/blob/master/LICENSE)
-[![languages](https://oauth.applinzi.com/Label/languages/php/007EC6.svg)](https://github.com/yakeing/php_jwsign/search?l=php)
+[![Downloads](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/download-1K.png)](https://packagist.org/packages/yakeing/php_jwsign)
+[![Size](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/size-1KB.png)](https://github.com/yakeing/php_jwsign/blob/master/src/jwsign.php)
+[![tag](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/tag-v1.png
+)](https://github.com/yakeing/php_jwsign/releases)
+[![license](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/license-MPL-2.0.png)](https://github.com/yakeing/php_jwsign/blob/master/LICENSE)
+[![languages](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/languages-php.png)](https://github.com/yakeing/php_jwsign/search?l=php)
 
 ### Installation
 
@@ -126,7 +127,7 @@ Use [Composer](https://getcomposer.org) to install the library.
 ---
 If you've got value from any of the content which I have created, then I would very much appreciate your support by payment donate.
 
-[![Sponsor](https://oauth.applinzi.com/State/heart/Sponsor/EA4AAA.svg)](https://github.com/yakeing/Documentation/blob/master/Sponsor/README.md)
+[![Sponsor](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/Sponsor.png)](https://github.com/yakeing/Documentation/blob/master/Sponsor/README.md)
 
 Author
 ---
