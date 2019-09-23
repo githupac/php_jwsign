@@ -4,18 +4,7 @@
   "description": "This is a function wrapping through the Openssl to sign and validate the data, which ensures the integrity and security of the original data.",
   "main": "index.js",
   "devDependencies": {
-    "php-fsockopen": "*",
-    "php-badge": "*",
-    "@yakeing/str-increment": "*",
-    "php-letsencrypt": "*",
-    "@yakeing/dnspod-api": "*",
-    "@yakeing/php-session": "*",
-    "php-jwsign": "*",
-    "php-saekv": "*",
-    "get-header": "*",
-    "php-curl": "*",
-    "@yakeing/php-template": "*",
-    "@yakeing/qrcode": "*"
+    "php-jwsign": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
