@@ -4,7 +4,7 @@ This is a function wrapping through the Openssl to sign and validate the data, w
 
 ### Travis CI
 
-[![Travis-ci](https://api.travis-ci.org/yakeing/php_jwsign.svg)](https://travis-ci.org/yakeing/php_jwsign)
+[![Travis-ci](https://api.travis-ci.com/yakeing/php_jwsign.svg)](https://travis-ci.org/yakeing/php_jwsign)
 
 ### codecov
 
