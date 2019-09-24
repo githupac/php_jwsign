@@ -2,22 +2,17 @@
 
 This is a function wrapping through the Openssl to sign and validate the data, which ensures the integrity and security of the original data.
 
-### Travis CI
+### Travis CI badge
 
 [![Travis-ci](https://api.travis-ci.com/yakeing/php_jwsign.svg)](https://travis-ci.com/yakeing/php_jwsign)
 
-### codecov
+### codecov badge
 
 [![codecov](https://codecov.io/gh/yakeing/php_jwsign/branch/master/graph/badge.svg)](https://codecov.io/gh/yakeing/php_jwsign)
 
-### Packagist
+### Github badge
 
-[![Version](http://img.shields.io/packagist/v/yakeing/php_jwsign.svg)](https://github.com/yakeing/php_jwsign/releases)
-[![Downloads](http://img.shields.io/packagist/dt/yakeing/php_jwsign.svg)](https://packagist.org/packages/yakeing/php_jwsign)
-
-### Dadge
-
-[![Downloads](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/download-1K.png)](https://packagist.org/packages/yakeing/php_jwsign)
+[![Downloads](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/download-0.1K.png)](https://packagist.org/packages/yakeing/php_jwsign)
 [![Size](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/size-1KB.png)](https://github.com/yakeing/php_jwsign/blob/master/src/jwsign.php)
 [![tag](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/tag-v1.png
 )](https://github.com/yakeing/php_jwsign/releases)
@@ -27,6 +22,7 @@ This is a function wrapping through the Openssl to sign and validate the data, w
 ### Installation
 
 Use [Composer](https://getcomposer.org) to install the library.
+Of course, You can go to [Packagist](https://packagist.org/packages/yakeing/php_jwsign) to view.
 
 ```
 
