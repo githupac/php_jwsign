@@ -13,11 +13,10 @@ This is a function wrapping through the Openssl to sign and validate the data, w
 ### Github badge
 
 [![Downloads](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/download-0.1K.png)](https://packagist.org/packages/yakeing/php_jwsign)
-[![Size](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/size-1KB.png)](https://github.com/yakeing/php_jwsign/blob/master/src/jwsign.php)
-[![tag](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/tag-v1.png
-)](https://github.com/yakeing/php_jwsign/releases)
-[![license](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/license-MPL-2.0.png)](https://github.com/yakeing/php_jwsign/blob/master/LICENSE)
-[![languages](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/languages-php.png)](https://github.com/yakeing/php_jwsign/search?l=php)
+[![Size](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/size-1KB.png)](src/jwsign.php)
+[![tag](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/tag-v1.png)](../../releases)
+[![license](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/license-MPL-2.0.png)](LICENSE)
+[![languages](https://raw.githubusercontent.com/yakeing/Documentation/master/Icon/languages-php.png)](../../search?l=php)
 
 ### Installation
 
